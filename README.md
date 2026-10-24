@@ -28,4 +28,4 @@ Note for recruiters: work samples here are personal/demo projects. No proprietar
 AI in QA — using AI for test generation and failure triage (with human sign-off), and testing AI systems with evals.
 
 ## Get in touch
-- Toronto, ON, Canada
+- ishatiwari2@gmail.com
