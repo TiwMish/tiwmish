@@ -20,7 +20,9 @@ AWS (EC2, IAM, S3, RDS) · Datadog · AppDynamics · JIRA
 
 ## Featured projects
 1. **[playwright-python-framework](https://github.com/TiwMish/playwright-python-framework)** — Python + pytest + Playwright framework with POM, API + UI tests, storage-state login, trace reporting, and GitHub Actions CI.
-2. **[ai-qa-evals](https://github.com/TiwMish/ai-qa-evals)** — LLM evaluation harness: golden dataset, rubric scoring, LLM-as-judge, and tool-call checks for an AI chatbot feature, run in CI.
+2. **[selenium-csharp-framework](https://github.com/TiwMish/selenium-csharp-framework)** — C# + NUnit + Selenium WebDriver framework with POM for login, inventory, cart, and checkout, tested against the public SauceDemo demo site.
+3. **[cypress-typescript-framework](https://github.com/TiwMish/cypress-typescript-framework)** — TypeScript + Cypress framework with POM for login and full cart-to-checkout flow, tested against the public SauceDemo demo site.
+4. **[ai-qa-evals](https://github.com/TiwMish/ai-qa-evals)** — LLM evaluation harness: golden dataset, deterministic rubric scoring, and tool-call checks for an AI chatbot feature.
 
 Note for recruiters: work samples here are personal/demo projects. No proprietary code from previous employers is included.
 
